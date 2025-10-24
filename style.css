@@ -1,0 +1,23 @@
+h1,
+h6 {
+  font-family: Arial;
+}
+
+body {
+  background-color: rgb(218, 167, 189);
+  padding: 10px;
+  margin-left: 40px;
+  background-image: url("bg.jpg");
+  background-repeat: repeat;
+  background-blend-mode: screen;
+}
+
+p {
+  font-family: "Architects Daughter", cursive;
+}
+
+.architects-daughter-regular {
+  font-family: "Architects Daughter", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
