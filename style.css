@@ -14,10 +14,29 @@ body {
 
 p {
   font-family: "Architects Daughter", cursive;
+  line-height: 2.3;
 }
 
 .architects-daughter-regular {
   font-family: "Architects Daughter", cursive;
   font-weight: 400;
   font-style: normal;
+}
+
+#icon {
+  width: 200px;
+  height: auto;
+  clear: both;
+  position: absolute;
+  float: right;
+  right: 0;
+  margin-right: 60px;
+  margin-top: -360px;
+}
+
+button {
+  padding: 18px;
+  border: none;
+  margin: 15px;
+  border-radius: 5px;
 }
